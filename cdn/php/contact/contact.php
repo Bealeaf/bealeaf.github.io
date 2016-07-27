@@ -1,7 +1,7 @@
 <?php
  
 // ======= Konfiguration:
-include('assets/php/email.php');
+include('https://bealeaf.github.io/cdn/php/contact/demo/assets/php/email.php');
  
 // ======= Text der Mail aus den Formularfeldern erstellen:
  
